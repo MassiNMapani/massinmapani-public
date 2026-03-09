@@ -810,7 +810,7 @@ export const siteConfig = {
       price: "$79",
       coverImage: "/images/placeholder-product-2.svg",
       gumroadUrl:
-        "https://www.lemonzm.com/creators/kp_965267704da44a67afc56bd54fa614b5",
+        "https://massinachombemapani.gumroad.com/l/zhisbf",
       paypalUrl: "", // Add PayPal link when ready
       description:
         "A paid directory of vetted contacts and practical warnings for smoother travel operations.",
