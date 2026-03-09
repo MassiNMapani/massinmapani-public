@@ -58,7 +58,7 @@ export default async function Page({ params }: Props) {
             href={product.paypalUrl}
             className="mt-5 inline-flex rounded-full bg-rose px-5 py-3 text-sm font-semibold text-white hover:bg-rose/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rose"
           >
-            Buy through mobile money
+            Pay through Paypal
           </ExternalLink>
         </div>
       </section>
