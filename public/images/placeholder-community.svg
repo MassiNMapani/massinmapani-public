@@ -1,0 +1,6 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="800" fill="#150F1D"/>
+<path d="M120 580C260 440 390 440 550 580" stroke="#E65293" stroke-opacity="0.6" stroke-width="24"/>
+<path d="M530 580C670 440 800 440 960 580" stroke="#E65293" stroke-opacity="0.6" stroke-width="24"/>
+<text x="90" y="160" fill="#F6F2EC" font-family="serif" font-size="56">Community</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1500" fill="#16121E"/>
+<rect x="80" y="80" width="1040" height="1340" rx="36" stroke="#E65293" stroke-opacity="0.5"/>
+<circle cx="940" cy="280" r="200" fill="#6550FF" fill-opacity="0.28"/>
+<text x="120" y="1290" fill="#F6F2EC" font-family="serif" font-size="48">Portrait Placeholder</text>
+<text x="120" y="1340" fill="#D8CEC2" font-family="sans-serif" font-size="24">Use /public/images/massi-about.jpg</text>
+</svg>
