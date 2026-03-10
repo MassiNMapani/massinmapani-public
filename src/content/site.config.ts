@@ -836,6 +836,11 @@ export const siteConfig = {
       "Community impact through mentorship, practical education, and platform-building for women in technical leadership.",
     mentorship:
       "Massi mentors emerging engineers and future technology leaders through structured guidance on career strategy, technical depth, and leadership confidence.",
+    workshopInterest: {
+      title: "Expression of Interest",
+      description:
+        "Interested in a digital transformation workshop for your business or professional practice? Share your details and areas of challenge."
+    },
     highlights: [
       "Built mentorship pathways for women transitioning into software and cloud roles",
       "Supported community workshops on practical automation and system reliability",

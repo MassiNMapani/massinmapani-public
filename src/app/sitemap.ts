@@ -12,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/press",
     "/products",
     "/community",
+    "/community/expression-of-interest",
     "/contact"
   ];
 
